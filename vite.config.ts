@@ -8,3 +8,6 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+export default {
+  base: '/LL/', // 👈 Your repo name (case-sensitive)
+}
